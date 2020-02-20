@@ -1,6 +1,6 @@
 # 2020 Reading List
 
-> Reading is fun.
+> Reading is fun. Showing someone else what you've read is challenging and fun.
 
 ## Reading list
 
