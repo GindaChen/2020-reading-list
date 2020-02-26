@@ -6,7 +6,10 @@
 
 > Go read! What are you waiting for? 
 
-- [ ] [Kant - groundwork for the metaphysics of morals with essays.pdf](http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf) 
+- [ ] [Kant - groundwork for the metaphysics of morals with essays](http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf) (also the optional reading of Philo341)
+
+
+
 ## Reflecting List
 
 > Read once? What do you remember? Nothing? Well... 
